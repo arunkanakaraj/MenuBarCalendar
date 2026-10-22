@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build artifacts
+MenuBarCalendar.app/
+build/
+.build/
+DerivedData/
+
+# Xcode / Swift
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
